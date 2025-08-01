@@ -4,11 +4,14 @@
     
 }
 
-
 body {
     background-color: blanchedalmond;
 }
 
+.main {
+    max-width: 800px;
+    margin: 0 auto;
+}
 
 h1, h2 {
     font-family: Georgia, serif;
@@ -17,22 +20,18 @@ h1, h2 {
     margin: 20px;
 }
 
-
 h1 {
     font-size: 50px;
 }
-
 
 h2 {
     font-size: 30px;
 }
 
-
 div {
   padding: 30px;
   margin-bottom: 10px;  
 }
-
 
 .card  {
     background-color: peachpuff;
@@ -45,34 +44,28 @@ ul, ol {
     margin: 10px;
 }
 
-
 p, li {
     color: #2d2d2d;
 }
-
 
 p {
     padding:0 20px 20px 20px;
     margin: 20px;
 }
 
-
 li {
     margin: 4px;
 }
-
 
 a {
     color: tomato;
     text-decoration: none;
 }
 
-
 img {
     border-radius: 20px;
     margin-left: 40px;
 }
-
 
 a.back-button {
     padding: 40px;
