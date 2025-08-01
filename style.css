@@ -1,0 +1,80 @@
+* {
+    font-family: Verdana, sans-serif;
+    box-sizing: border-box;
+    
+}
+
+
+body {
+    background-color: blanchedalmond;
+}
+
+
+h1, h2 {
+    font-family: Georgia, serif;
+    color: indianred;
+    padding:20px;
+    margin: 20px;
+}
+
+
+h1 {
+    font-size: 50px;
+}
+
+
+h2 {
+    font-size: 30px;
+}
+
+
+div {
+  padding: 30px;
+  margin-bottom: 10px;  
+}
+
+
+.card  {
+    background-color: peachpuff;
+    border-radius: 20px;
+    padding: 20px;
+    margin-left: 40px;
+}
+
+ul, ol {
+    margin: 10px;
+}
+
+
+p, li {
+    color: #2d2d2d;
+}
+
+
+p {
+    padding:0 20px 20px 20px;
+    margin: 20px;
+}
+
+
+li {
+    margin: 4px;
+}
+
+
+a {
+    color: tomato;
+    text-decoration: none;
+}
+
+
+img {
+    border-radius: 20px;
+    margin-left: 40px;
+}
+
+
+a.back-button {
+    padding: 40px;
+    margin-top: 10px;
+}
